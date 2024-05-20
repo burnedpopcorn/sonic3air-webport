@@ -21,7 +21,9 @@ _cacheFiles = [
 	'react.js'
 ```
 
-- Copy the file names into the url of Sapphard's website and replace the .html file with these other files (For Example: https://projects.sappharad.com/s3air_ios/20240202_beta/sonic3air_web.html -> https://projects.sappharad.com/s3air_ios/20240202_beta/loader.js)
+- Copy the file names into the url of Sapphard's website and replace the .html file with these other files
+
+  (For Example: https://projects.sappharad.com/s3air_ios/20240202_beta/sonic3air_web.html -> https://projects.sappharad.com/s3air_ios/20240202_beta/loader.js)
 > [!NOTE]
 > You will have to do this step many times until you download all the files
 - To download any file that doesn't immediately download it automatically, like the html file, just Right Click -> Save as, then save it
@@ -29,3 +31,17 @@ _cacheFiles = [
 
 > [!NOTE]
 > If you didn't understand any of this, just remember this is not necessary to run it for yourself, as I have extracted the assets for you already, and the files are in the repo
+
+You know what, here:
+- https://projects.sappharad.com/s3air_ios/20240202_beta/sonic3air_web.html
+- https://projects.sappharad.com/s3air_ios/20240202_beta/sonic3air_web.js
+- https://projects.sappharad.com/s3air_ios/20240202_beta/sonic3air_web.wasm
+- https://projects.sappharad.com/s3air_ios/20240202_beta/loader.js
+- https://projects.sappharad.com/s3air_ios/20240202_beta/manifest.json
+- https://projects.sappharad.com/s3air_ios/20240202_beta/icon.png
+- https://projects.sappharad.com/s3air_ios/20240202_beta/browserfs.min.js
+- https://projects.sappharad.com/s3air_ios/20240202_beta/filemanager.js
+- https://projects.sappharad.com/s3air_ios/20240202_beta/fileManagerRuntime.js
+- https://projects.sappharad.com/s3air_ios/20240202_beta/react.js
+
+For your cOnVeNiEnCe, so you don't have to manually ctrl+c, ctrl+v the filenames into the url
