@@ -11,6 +11,8 @@ I did not compile this myself, all I did was extract all the files from Sapphara
 
 Special thanks to him for doing it for me
 
+Also as a bonus, touch controls work as well, so I guess its a IOS port as well
+
 ![image](https://github.com/burnedpopcorn/sonic3air-webport/blob/main/images/s3airtitle.png)
 ![image](https://github.com/burnedpopcorn/sonic3air-webport/blob/main/images/s3airmenu.png)
 ![image](https://github.com/burnedpopcorn/sonic3air-webport/blob/main/images/s3airgame.png)
