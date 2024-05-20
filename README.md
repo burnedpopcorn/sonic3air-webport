@@ -7,9 +7,9 @@ Demo Site of This Project: http://sonic3airwebport.x10.mx/sonic3air_web.html
 Main Project homepage: https://sonic3air.org/
 
 ### About Repository
-I did not compile this myself, all I did was extract all the files from Sappharad's Web Port (and technecally an IOS Port) from [his website](https://projects.sappharad.com/s3air_ios/20240202_beta/)
+I did not compile this myself, all I did was extract all the files from Sappharad's Web Port (and technecally an IOS Port) straight from [his website](https://projects.sappharad.com/s3air_ios/20240202_beta/)
 
-Special thanks to him for doing it for me
+Special thanks to him for doing it for me, but honestly, he should've just released the files, but at least I have a reason to stall my other web ports (yes I have more)
 
 Also as a bonus, touch controls work as well, so I guess its a IOS port as well
 
