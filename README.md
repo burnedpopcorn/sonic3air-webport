@@ -64,10 +64,12 @@ Any commercial use of this project without SEGA's explicit consent is strictly p
 * Rinnegatamante
 * MDashK
 
+### Other Contributions
+
 Remastered soundtrack by:
 * G Spindash
 
-Game scripts & other contributions by:
+Game scripts & other contributions:
 * Vinegar
 * Thorn
 * Legobouwer
