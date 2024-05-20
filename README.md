@@ -40,6 +40,8 @@ Read [EXTRACTING.md](https://github.com/burnedpopcorn/sonic3air-webport/blob/mai
 ### MODS!
 Not sure if mods work, but you can access the mods folder and then restart the game if you exit within the main menu
 
+![image](https://github.com/burnedpopcorn/sonic3air-webport/blob/main/images/s3airfiles.png)
+
 ## Disclaimer
 
 Sonic 3 A.I.R. is a non-profit fan game project. It is not affiliated in any way with SEGA or Sonic Team, the original creators of Sonic 3 and Sonic & Knuckles.
