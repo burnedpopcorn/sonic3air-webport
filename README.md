@@ -10,7 +10,7 @@ I did not compile this myself, all I did was extract all the files from Sapphara
 Special thanks to him for doing it for me
 
 ### To Run this yourself
-- Get the files from this repo
+- Get the files from this repo (Code -> Download ZIP)
 - Put the files in a web server (Because I'm 99.99% sure this was made by Emscripten, it CANNOT be run locally with the file:// protocol, as that results in CORS issues because of Emscripten Limitations)
 - Open sonic3air_web.html from within your website (https:// (your domain) /sonic3air_web.html)
 
