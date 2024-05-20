@@ -20,7 +20,7 @@ Also as a bonus, touch controls work as well, so I guess its a IOS port as well 
 ![image](https://github.com/burnedpopcorn/sonic3air-webport/blob/main/images/s3airgame.png)
 
 ### To Run this yourself
-- Get the files from this repo (Code -> Download ZIP)
+- Get the files from this repo (Code -> Download ZIP or download from the Releases Page)
 - Put the files in a web server (Because I'm 99.99% sure this was made by Emscripten, it CANNOT be run locally with the file:// protocol, as that results in CORS issues because of Emscripten Limitations)
 - Open sonic3air_web.html from within your website (https:// (your domain) /sonic3air_web.html)
 
