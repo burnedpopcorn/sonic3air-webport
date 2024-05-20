@@ -37,6 +37,9 @@ Also, you still need to have Sonic_Knuckles_wSonic3.bin as of now, but this repo
 ### To Extract the Assets for Yourself
 Read [EXTRACTING.md](https://github.com/burnedpopcorn/sonic3air-webport/blob/main/EXTRACTING.md) for that (if you really want to)
 
+### MODS!
+Not sure if mods work, but you can access the mods folder and then restart the game if you exit within the main menu
+
 ## Disclaimer
 
 Sonic 3 A.I.R. is a non-profit fan game project. It is not affiliated in any way with SEGA or Sonic Team, the original creators of Sonic 3 and Sonic & Knuckles.
