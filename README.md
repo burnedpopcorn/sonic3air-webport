@@ -1,6 +1,6 @@
 # Sonic 3 A.I.R. Web Port
 
-WebAssembly Port of  "Sonic 3 - Angel Island Revisited", a fan-made remaster of Sonic 3 & Knuckles.
+WebAssembly Port of  "Sonic 3 - Angel Island Revisited", a fan-made remaster of Sonic 3 & Knuckles. Also, please read the entire readme, it holds lots of info
 
 Demo Site of This Project: http://sonic3airwebport.x10.mx/sonic3air_web.html
 
