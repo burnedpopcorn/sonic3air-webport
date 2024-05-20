@@ -1,4 +1,4 @@
-## Extracting the Assets from Sapphard's Website
+## Extracting the Assets from Sappharad's Website
 
 How I did it:
 - Go to his Sonic 3 A.I.R page (https://projects.sappharad.com/s3air_ios/20240202_beta/sonic3air_web.html)
