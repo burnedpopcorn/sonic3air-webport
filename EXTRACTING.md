@@ -21,7 +21,7 @@ _cacheFiles = [
 	'react.js'
 ```
 
-- Copy the file names into the url of Sapphard's website and replace the .html file with these other files
+- Copy the file names into the url of Sappharad's website and replace the .html file with these other files
 
   (For Example: https://projects.sappharad.com/s3air_ios/20240202_beta/sonic3air_web.html -> https://projects.sappharad.com/s3air_ios/20240202_beta/loader.js)
 > [!NOTE]
