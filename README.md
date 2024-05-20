@@ -1,6 +1,6 @@
 # Sonic 3 A.I.R. Web Port
 
-WebAssembly Port of  "Sonic 3 - Angel Island Revisited", a fan-made remaster of Sonic 3 & Knuckles. Also, please read the entire readme, it holds lots of info
+WebAssembly Port of  "Sonic 3 - Angel Island Revisited", a fan-made remaster of Sonic 3 & Knuckles.
 
 Demo Site of This Project: http://sonic3airwebport.x10.mx/sonic3air_web.html
 
@@ -13,7 +13,7 @@ Special thanks to him for doing it for me
 
 Honestly, he should've just released the files from the start, but at least I have a reason to stall my other web ports (yes I have more)
 
-Also as a bonus, touch controls work as well, so I guess its a IOS port as well
+Also as a bonus, touch controls work as well, so I guess its a IOS port as well (And please read the entire readme, it holds lots of info)
 
 ![image](https://github.com/burnedpopcorn/sonic3air-webport/blob/main/images/s3airtitle.png)
 ![image](https://github.com/burnedpopcorn/sonic3air-webport/blob/main/images/s3airmenu.png)
