@@ -53,11 +53,9 @@ No financial gain is made from this project.
 
 Any commercial use of this project without SEGA's explicit consent is strictly prohibited.
 
-## Contributors
+## Thanks to
 
-Thanks to all contributors!
-
-Source code contributions by:
+* Eukaryot
 * Sappharad
 * Heyjoeway
 * Carjem Generations
