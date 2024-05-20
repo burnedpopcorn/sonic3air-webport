@@ -4,7 +4,7 @@ WebAssembly Port of  "Sonic 3 - Angel Island Revisited", a fan-made remaster of 
 
 Main Project homepage: https://sonic3air.org/
 
-### About
+### About Repository
 I did not compile this myself, all I did was extract all the files from Sappharad's Web Port (and technecally an IOS Port) from [his website](https://projects.sappharad.com/s3air_ios/20240202_beta/)
 
 Special thanks to him for doing it for me
@@ -33,16 +33,6 @@ The developers of Sonic 3 A.I.R. have no intent to infringe said copyrights and 
 No financial gain is made from this project.
 
 Any commercial use of this project without SEGA's explicit consent is strictly prohibited.
-
-
-## Repository overview
-
-This repository is split into several different projects:
-* The larger external dependencies (namely SDL2, Ogg/Vorbis, zlib) inside the "framework" directory. These are copies of the respective open source projects, with a few custom changes applied where needed - see the "how-to-build.txt" files in there for details.
-* The librmx libraries that together with the external dependencies build a foundation for my own projects (S3AIR and my private stuff). This primarily consists of rmxbase, a collection of helper and utility classes, and rmxmedia, which is providing a basic game framework built on top of SDL2 & OpenGL.
-* Lemonscript language library, with compiler and runtime environment for script execution.
-* Oxygen Engine, the backbone game engine powering Sonic 3 A.I.R. This includes input, graphics, audio handling, and all the other game application stuff, as well as a simulation environment built around lemonscript that - as far as needed for the purposes of S3AIR - emulates aspects of Sega Genesis hardware. Note that Oxygen can be built as its own application (OxygenApp) that lacks the S3AIR C++ code.
-* S3AIR-specific C++ code, scripts and data in the "Oxygen/sonic3air" directory. Yes, that's what it's named.
 
 ## Contributors
 
