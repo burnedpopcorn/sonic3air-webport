@@ -1,9 +1,27 @@
-# Sonic 3 A.I.R.
+# Sonic 3 A.I.R. Web Port
 
-Source code incl. dependencies for "Sonic 3 - Angel Island Revisited", a fan-made remaster of Sonic 3 & Knuckles.
+WebAssembly Port of  "Sonic 3 - Angel Island Revisited", a fan-made remaster of Sonic 3 & Knuckles.
 
-Project homepage: https://sonic3air.org/
+Main Project homepage: https://sonic3air.org/
 
+### About
+I did not compile this myself, all I did was extract all the files from Sappharad's Web Port (and technecally an IOS Port) from [his website](https://projects.sappharad.com/s3air_ios/20240202_beta/)
+
+Special thanks to him for doing it for me
+
+### To Run this yourself
+- Get the files from this repo
+- Put the files in a web server (Because I'm 99.99% sure this was made by Emscripten, it CANNOT be run locally with the file:// protocol, as that results in CORS issues because of Emscripten Limitations)
+- Open sonic3air_web.html from within your website (https:// (your domain) /sonic3air_web.html)
+
+### To run this Locally
+If you want to run this locally, use something like python to run a temporary web server on your machine
+
+To do this using Python, you do by
+- Entering the directory containing sonic3air_web.html and other files and typing the command python3 -m http.server in the linux terminal or py -m http.server for windows powershell given you installed python
+- At which point you can enter http://localhost:8000/sonic3air_web.html to play the game locally
+
+Also, you still need to have Sonic_Knuckles_wSonic3.bin as of now, but this repo will have it for you, and I will try and see if I can change it to just include it within the same server it is hosted on
 
 ### Disclaimer
 
@@ -25,36 +43,6 @@ This repository is split into several different projects:
 * Lemonscript language library, with compiler and runtime environment for script execution.
 * Oxygen Engine, the backbone game engine powering Sonic 3 A.I.R. This includes input, graphics, audio handling, and all the other game application stuff, as well as a simulation environment built around lemonscript that - as far as needed for the purposes of S3AIR - emulates aspects of Sega Genesis hardware. Note that Oxygen can be built as its own application (OxygenApp) that lacks the S3AIR C++ code.
 * S3AIR-specific C++ code, scripts and data in the "Oxygen/sonic3air" directory. Yes, that's what it's named.
-
-
-## How to build
-
-For information on how to build for different platforms, find the readme files in the respective subdirectories of "Oxygen/sonic3air/build":
-* Windows: "_vstudio"
-* Mac:     "_xcode"
-* Linux:   "_cmake"
-* Android: "_android"
-* Web:     "_emscripten"
-* Switch:  "_make" (unmaintained)
-
-Additional platform ports:
-* Vita: See https://github.com/v-atamanenko/sonic3air
-
-
-## External dependencies
-
-External libraries and code used in this project:
-* SDL2 - in "framework/external/sdl"
-* libogg & libvorbis - in "framework/external/ogg-vorbis"
-* zlib incl. minizip - in "framework/external/zlib"
-* libcurl - in "framework/external/curl"
-* jsoncpp - in "librmx/source/rmxbase/jsoncpp"
-* GLEW - in "librmx/source/rmxmedia/glew"
-* Sound chip emulation related code from Genesis Plus GX - in "Oxygen/oxygenengine/source/oxygen/simulation/sound"
-* Discord Game SDK - in "Oxygen/sonic3air/source/external/discord_game_sdk"
-* xBRZ upscaler shader code - in "Oxygen/oxygenengine/data/shader" and once more in "Oxygen/sonic3air/data/shader"
-* Hqx upscaler shader code & data files - in "Oxygen/oxygenengine/data/shader" and once more in "Oxygen/sonic3air/data/shader"
-
 
 ## Contributors
 
@@ -86,12 +74,3 @@ Game scripts & other contributions by:
 * Elsie The Pict
 * TheMushrunt
 * mrgrassman14
-
-
-## Want to contribute?
-
-Here's the bad news: This repository isn't meant for direct distribution. If you have your own changes that you want to share with the world, create a **fork** of this repo, instead of making pull requests. I'd very much appreciate that as I really want to avoid having too much overhead with managing / reviewing code changes made by others. I'd rather use the time to continue with implementing my own ideas into the project.
-
-Plus there's a second reason, and that's an important one for me as well: It's about code ownership and software licenses. It's much easier to use the librmx, lemonscript and Oxygen Engine code elsewhere under a different license than GPL if I don't have to ask a larger group of contributors whether they are okay with it. Because there are some plans for possible future projects using these codes as a foundation, maybe even commercial ones where GPL could make things complicated.
-
--- Euka
