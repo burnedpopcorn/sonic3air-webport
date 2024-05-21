@@ -5,6 +5,7 @@ WebAssembly Port of  "Sonic 3 - Angel Island Revisited", a fan-made remaster of 
 Demo Site of This Project: http://sonic3airwebport.x10.mx/sonic3air_web.html
 
 Main Project homepage: https://sonic3air.org/
+> Check the Releases Page for the Revision 1 Update
 
 ### About Repository
 I did not compile this myself, all I did was extract all the files from Sappharad's Web Port (and technecally an IOS Port) straight from [his website](https://projects.sappharad.com/s3air_ios/20240202_beta/)
