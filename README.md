@@ -25,6 +25,8 @@ Also as a bonus, touch controls work as well, so I guess its a IOS port as well 
 - Put the files in a web server (Because I'm 99.99% sure this was made by Emscripten, it CANNOT be run locally with the file:// protocol, as that results in CORS issues because of Emscripten Limitations)
 - Open sonic3air_web.html from within your website (https:// (your domain) /sonic3air_web.html)
 
+> Or you could place all the files into the root of your github.io repo and host it through github.io pages
+
 ### To run this Locally
 If you want to run this locally, use something like python to run a temporary web server on your machine
 
