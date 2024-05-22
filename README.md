@@ -39,7 +39,7 @@ Also, you still need to have Sonic_Knuckles_wSonic3.bin as of now, but this repo
 Read [EXTRACTING.md](https://github.com/burnedpopcorn/sonic3air-webport/blob/main/EXTRACTING.md) for that (if you really want to)
 
 ### MODS!
-This port does have A.I.R. mod support, but you can only access the mods folder by exiting the game within the main menu, and then restarting it after you uploaded your mod of choice
+This port does have A.I.R. mod support, but you can only access the mods folder by exiting the game within the main menu, and then restarting it after you uploaded your mod of choice within the mod folder
 > Also, you can download Higher Quality Music Files within this File Manager by pressing Extra Downloads -> Install Anyway
 
 ![image](https://github.com/burnedpopcorn/sonic3air-webport/blob/main/images/s3airfiles.png)
