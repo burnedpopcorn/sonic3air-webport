@@ -5,7 +5,7 @@ WebAssembly Port of  "Sonic 3 - Angel Island Revisited", a fan-made remaster of 
 Demo Site of This Project: http://sonic3airwebport.x10.mx/sonic3air_web.html
 
 Main Project homepage: https://sonic3air.org/
-> Check the Releases Page for the Revision 1 Update
+> Check the Releases Page for the Revision 2 Update
 
 ### About Repository
 I did not compile this myself, all I did was extract all the files from Sappharad's Web Port (and technecally an IOS Port) straight from [his website](https://projects.sappharad.com/s3air_ios/20240202_beta/)
@@ -39,7 +39,8 @@ Also, you still need to have Sonic_Knuckles_wSonic3.bin as of now, but this repo
 Read [EXTRACTING.md](https://github.com/burnedpopcorn/sonic3air-webport/blob/main/EXTRACTING.md) for that (if you really want to)
 
 ### MODS!
-Not sure if mods work, but you can access the mods folder and then restart the game if you exit within the main menu
+This port does have A.I.R. mod support, but you can only access the mods folder by exiting the game within the main menu, and then restarting it after you uploaded your mod of choice
+> Also, you can download Higher Quality Music Files within this File Manager by pressing Extra Downloads -> Install Anyway
 
 ![image](https://github.com/burnedpopcorn/sonic3air-webport/blob/main/images/s3airfiles.png)
 
